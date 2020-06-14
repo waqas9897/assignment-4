@@ -1,0 +1,50 @@
+
+.navbar {
+    background-color: #3c92cf !important;
+    font-weight: bolder;
+
+}
+.navbar-brand {
+    color: #fff !important;
+    font-size: xx-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.nav-link {
+    color: #fff !important;
+}
+
+.card-title {
+    font-size: 35px !important;
+    font-weight: bolder;
+    color: #3c92cf ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.card-text {
+    font-size: 20px;
+}
+
+.mission-text {
+    font-size: 20px;
+}
+
+.heading {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.get-in-touch {
+    margin-top: 100px;
+}
+
+#footer {
+    background-color: rgb(0, 0, 0);
+    color: white;
+    font-size: xx-large;
+}
+
+.social-icons {
+    margin-left: 5px;
+        
+}
